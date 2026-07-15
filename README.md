@@ -1,5 +1,6 @@
 # High-Load A/B Testing Recommendation Service
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![CI](https://github.com/Dynobite/high-load-a-b-testing-recommendation-service/actions/workflows/main.yml/badge.svg)
 
 ## Business Context
 
