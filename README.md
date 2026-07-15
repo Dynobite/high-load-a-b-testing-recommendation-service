@@ -1,4 +1,5 @@
 # High-Load A/B Testing Recommendation Service
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Business Context
 
